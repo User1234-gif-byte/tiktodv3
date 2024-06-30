@@ -1,0 +1,4 @@
+klon git:https://github.com/kangoka/tiktodv3.git
+cd tiktokdv3
+pip install -r persyaratan.txt
+tiktokdv3.py
